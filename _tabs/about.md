@@ -38,7 +38,7 @@ Also attempt leetcode problems consistently .[Profile](https://leetcode.com/u/ja
     by searching for 'project' in the tags section.
 
 # Interests/Hobbies
- - I like watching/playing football(soccer),supporting ArsenalFC, working out, scrolling twitter,exploring Boston,
+ - I like soccer,exploring Boston,
   trying new restaurants , playing guitar sometimes.<br>
  - My hometown is Nashik,Maharashtra,India.
 
