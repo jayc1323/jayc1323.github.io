@@ -4,6 +4,10 @@ icon: fas fa-info-circle
 order: 1
 ---
 # Current 
+- Currently working as a Research Assistant in Programming Languages at Tufts University in the Tufts University programming languages group. (July 2025 - Present) , working under the guidance of postdoc scholar [Vadim Zaliva](https://zaliva.org/) and [Prof. Jeff Foster](https://www.cs.tufts.edu/~jfoster/)
+<br>.
+- The project I have been contributing to - [poison_lang](https://github.com/jayc1323/poison-lang/)
+
 I am currently pursuing the [_Master in Computer Science_](https://engineering.tufts.edu/cs/current-students/graduate/ms-computer-science) degree at [__Tufts University__](https://www.tufts.edu/). Prior to enrolling in the Master's ,I successfully completed the 
 Postbac in CS at Tufts,which builds a foundation in CS and prepares you for higher level courses. <br>
 My areas of interests are __software engineering , programming languages__  and I also get interested
