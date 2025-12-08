@@ -15,14 +15,16 @@ and like to explore other topics like  _systems/networking,web development,machi
 I have experience programming in :<br>
 __Object Oriented/procedural langauges__ - C ,Javascript, C++,Java ,Smalltalk,Python
 <br>
-__Functional Languages__ - StandardML , Scheme
+__Functional Languages__ - Lean , StandardML , Scheme
 <br> 
 and am trying to learn Haskell,Elm and web technologies like NextJS,NodeJS.
 <br>
 Also attempt leetcode problems consistently .[Profile](https://leetcode.com/u/jayc13231999/)
  
 # Courses 
- My coursework at Tufts :
+  Coursework at Tufts :
+ - [Distributed Systems]()
+ - Theory of Computation ( Fall 2025)
  - [Data Structures](https://www.cs.tufts.edu/comp/15/) (Fall 23)
  - [Algorithms](https://www.cs.tufts.edu/comp/160/) (Spring 24)
  - [Computer Architecture](https://www.cs.tufts.edu/comp/40/) (CS 40) (Spring 24)
@@ -36,10 +38,8 @@ Also attempt leetcode problems consistently .[Profile](https://leetcode.com/u/ja
     GPA - 3.7.
 
 # Goal short term
- - Current short term goal is to get work experience in Software engineering
-   in Fall 25 through an internship/co-op.
- - If you are a recruiter and think I might be a good fit , please contact me. Details regarding previous and ongoing projects
-    by searching for 'project' in the tags section.
+ - Interested in Full time roles / internships in areas such as Software engineering, primarily involving low level programming in C/C++ in areas like distributed systems,network   programming.
+  Also interested in areas such as programming language development , developer tooling ,infrastructure .
 
 # Interests/Hobbies
  - I like soccer,exploring Boston,
@@ -50,10 +50,8 @@ Also attempt leetcode problems consistently .[Profile](https://leetcode.com/u/ja
  - I am an international student in the US , citizen of India. 
  - My undergraduate degree was in _Metallurgical and Materials Engineering_
    from the [National Institute of Technology,Tiruchirappalli](https://nitt.edu/) . (2021)
- - After that I worked from July 2021-August 2022 as a Technical Sales Engineer/Deputy Sales Manager at KION Group in Mumbai 
-   handling sales of material handling equipment.<br>
- - Towards the end of my period here , I was getting interested in programming and then I was selected to be a Data Analyst Apprentice 
-   at RBHU Analytics , Mumbai . Although I did receive a full time offer , I wanted to pursue a degree in CS and got admitted to Tufts University for the postbac program(Fall 2023).
+
+
 
 
 
