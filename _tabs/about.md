@@ -23,7 +23,7 @@ Also attempt leetcode problems consistently .[Profile](https://leetcode.com/u/ja
  
 # Courses 
   Coursework at Tufts :
- - [Distributed Systems]()
+ - [Distributed Systems](https://www.cs.tufts.edu/comp/117/)
  - Theory of Computation ( Fall 2025)
  - [Data Structures](https://www.cs.tufts.edu/comp/15/) (Fall 23)
  - [Algorithms](https://www.cs.tufts.edu/comp/160/) (Spring 24)
