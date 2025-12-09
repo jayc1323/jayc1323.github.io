@@ -16,4 +16,16 @@ layout: post
 ### Challenge : Building a code generator that generates client and server side stubs when given a interface definition file.
 - An RPC Generator takes in a interface definition file with types and function definitions and generates 
   client and server side stubs to handle serialization and deserialization of arguments and other function call related data.
+``` // example idl file
+    struct Person {
+      string name;
+      string age;
+    };
+    struct People {
+      Person arr[15];
+    };
+    int add(int x,int y);
+    Person getPerson(Person p , People ppl);
+    ``` 
+
 
