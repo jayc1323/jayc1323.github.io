@@ -14,4 +14,6 @@ layout: post
   details that are usually associated with REST and takes lesser time compared to REST as data sent over 
   the network can be binary and incurs lesser overhead than common formats like JSON when sending data types like arrays/structs.
 ### Challenge : Building a code generator that generates client and server side stubs when given a interface definition file.
+- An RPC Generator takes in a interface definition file with types and function definitions and generates 
+  client and server side stubs to handle serialization and deserialization of arguments and other function call related data.
 
